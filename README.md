@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github.com/Ciaran97/assets/ReadMe.gif)
+
 [![Ciaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciaran97)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
