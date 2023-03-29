@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there i'm Ciaran Swanepoel👋
 
-![](https://github.com/Ciaran97/assets/ReadMe.gif)
+![](https://github.com/Ciaran97/Ciaran97/blob/afc3ef08d649ef05d8d3cd9db5e9504adcb07311/assets/ReadMe.gif)
 
 [![Ciaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciaran97)](https://github.com/anuraghazra/github-readme-stats)
 
