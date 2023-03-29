@@ -1,5 +1,5 @@
 <!--Header image created with: https://leviarista.github.io/github-profile-header-generator/-->
-
+<p align="center"><a href="https://ciaran.github.io"><img width="80%" alt="Hello, I'm Ciaran." src="./assets/github-header-image.png" /></a></p>
 
 
 <p><em>Software Developer at <a href="http://www.aercap.com">AerCap</a><img src="https://media.giphy.com/media/hVxJUqWXVrCGTDpnVU/giphy.gif" width="30">
