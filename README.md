@@ -15,3 +15,7 @@
 
 | <a href="https://github.com/Ciaran97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ciaran97&show_icons=true&include_all_commits=true&theme=dark" alt="Ciaran's github stats" /></a> | <a href="https://github.com/Ciaran97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciaran97&layout=compact&theme=dark" /></a> |
 
+## Weather near me
+
+![Weather Report](https://wttr.in/Limerick.png?)
+
