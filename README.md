@@ -1,17 +1,36 @@
-<!--Header image created with: https://leviarista.github.io/github-profile-header-generator/-->
-<p align="center"><a href="https://ciaran.github.io"><img width="80%" alt="Hello, I'm Ciaran." src="./assets/gh-header-img.png" /></a></p>
+<!-- Profile Header -->
+<h1 align="center">Hey there, I'm Ciaran 👋</h1>
 
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Ciaran97/count.svg" />
+<p align="center">
+  🧑‍💻 <strong>.NET Backend Developer</strong> • 🗃️ <strong>Database Specialist</strong> • ⚙️ <strong>DevOps Enthusiast</strong>
 </p>
 
-## About me
-<a href="https://www.linkedin.com/in/ciaranswanepoel/"><img src="https://img.shields.io/badge/-ciaranswanepoel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ciaranswanepoel/" /></a>
-- <p><em>Software Developer at <a href="http://www.aercap.com">AerCap</a><img src="https://media.giphy.com/media/hVxJUqWXVrCGTDpnVU/giphy.gif" width="30"></em></p>
-- <p><em>BsC in Application Development from <a href="https://www.varsitycollege.co.za/">Varsity College</a><img src="https://media.giphy.com/media/tDDIeB24eaOr3xhbia/giphy.gif" width="20"></em></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET%207-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
-| <a href="https://github.com/Ciaran97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ciaran97&show_icons=true&include_all_commits=true&theme=dark" alt="Ciaran's github stats" /></a> | <a href="https://github.com/Ciaran97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciaran97&layout=compact&theme=dark" /></a> |
+---
 
+## 👨‍💻 About Me
+
+I'm a backend developer with a passion for building robust, scalable APIs and efficient database systems. I enjoy tackling complex data problems and automating workflows with clean, maintainable code.
+
+- 🛠 I specialize in **.NET (C#)** and **Entity Framework Core**
+- 🧠 Strong in **SQL Server**, **PostgreSQL**, and **database design**
+- ☁️ Experience with **Docker**, **Linux**, and **self-hosted CI/CD**
+- 🧪 TDD, Clean Architecture, and Domain-Driven Design practitioner
+
+---
+
+## 📦 Tech Stack
+
+```txt
+Languages:     C#, SQL, TypeScript
+Frameworks:    .NET 7/8/9, Entity Framework Core, ASP.NET Core Web API
+Databases:     SQL Server, PostgreSQL, SQLite, PL/SQL
+DevOps:        Docker, GitHub Actions, Bash
+Tools:         VS Code, DBeaver, Postman, TablePlus
+Other:         Firebase Auth, Identity, Linux server hosting
